@@ -1,5 +1,5 @@
 
-## Employee New Hire and Exit Hire Data Analysis - Power BI Project New_Hire
+## Employee New Hire and Exit Hire Data Analysis 
 
 Overview This Power BI project analyzes the employee hiring and exit data to uncover patterns and insights that can help organizations improve their recruitment and retention strategies. The analysis dives into various factors such as employee demographics, department-specific trends, time-to-hire metrics, reasons for exit, and tenure distribution.
 
