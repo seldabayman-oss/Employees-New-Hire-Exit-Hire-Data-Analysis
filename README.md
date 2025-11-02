@@ -5,6 +5,9 @@ Overview This Power BI project analyzes the employee hiring and exit data to unc
 
 ## Exit Hire
 
+<img width="1046" height="482" alt="Exit Hire" src="https://github.com/user-attachments/assets/8e5a6ec4-3f30-46fa-9bef-65c8f5fa03a6" />
+
+
 Objective The main objective of this project is to provide a comprehensive overview of employee hiring and exit trends, enabling data-driven decision-making for HR teams. By visualizing key metrics and patterns, this report aims to highlight areas of improvement in both the hiring and retention processes.
 
 Data and Methodology Data Sources: The data set includes records of new hires, exits, reasons for leaving, and departmental details spanning the past five years.
